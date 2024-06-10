@@ -1,0 +1,19 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+06-10-2024,152,Endpoint 1,200,OK,Thread Group 1-1,text,true,,794,196,1,1,"https://api.openweathermap.org/data/2.5/weather?q=Milan,MI,IT&appid=41ee288d3d61d478629f7453b43ca0f8",152,0,120
+06-10-2024,33,Endpoint 2,200,OK,Thread Group 1-1,text,true,,794,193,1,1,"https://api.openweathermap.org/data/2.5/weather?q=Milan,IT&appid=41ee288d3d61d478629f7453b43ca0f8",33,0,0
+06-10-2024,52,Endpoint 3 ,200,OK,Thread Group 1-1,text,true,,788,190,1,1,https://api.openweathermap.org/data/2.5/weather?q=Milan&appid=41ee288d3d61d478629f7453b43ca0f8,52,0,0
+06-10-2024,34,Endpoint 1,200,OK,Thread Group 1-1,text,true,,802,195,1,1,"https://api.openweathermap.org/data/2.5/weather?q=Rome,RM,IT&appid=41ee288d3d61d478629f7453b43ca0f8",34,0,0
+06-10-2024,32,Endpoint 2,200,OK,Thread Group 1-1,text,true,,799,192,1,1,"https://api.openweathermap.org/data/2.5/weather?q=Rome,IT&appid=41ee288d3d61d478629f7453b43ca0f8",32,0,0
+06-10-2024,34,Endpoint 3 ,200,OK,Thread Group 1-1,text,true,,795,189,2,2,https://api.openweathermap.org/data/2.5/weather?q=Rome&appid=41ee288d3d61d478629f7453b43ca0f8,34,0,0
+06-10-2024,163,Endpoint 1,200,OK,Thread Group 1-2,text,true,,799,197,1,1,"https://api.openweathermap.org/data/2.5/weather?q=Venice,VE,IT&appid=41ee288d3d61d478629f7453b43ca0f8",163,0,126
+06-10-2024,40,Endpoint 2,200,OK,Thread Group 1-2,text,true,,788,194,1,1,"https://api.openweathermap.org/data/2.5/weather?q=Venice,IT&appid=41ee288d3d61d478629f7453b43ca0f8",40,0,0
+06-10-2024,38,Endpoint 3 ,200,OK,Thread Group 1-2,text,true,,802,191,1,1,https://api.openweathermap.org/data/2.5/weather?q=Venice&appid=41ee288d3d61d478629f7453b43ca0f8,38,0,0
+06-10-2024,128,Endpoint 1,200,OK,Thread Group 1-2,text,true,,855,196,2,2,"https://api.openweathermap.org/data/2.5/weather?q=Turin,TO,IT&appid=41ee288d3d61d478629f7453b43ca0f8",128,0,0
+06-10-2024,38,Endpoint 2,200,OK,Thread Group 1-2,text,true,,852,193,2,2,"https://api.openweathermap.org/data/2.5/weather?q=Turin,IT&appid=41ee288d3d61d478629f7453b43ca0f8",38,0,0
+06-10-2024,41,Endpoint 3 ,200,OK,Thread Group 1-2,text,true,,849,190,2,2,https://api.openweathermap.org/data/2.5/weather?q=Turin&appid=41ee288d3d61d478629f7453b43ca0f8,41,0,0
+06-10-2024,153,Endpoint 1,200,OK,Thread Group 1-3,text,true,,809,193,1,1,"https://api.openweathermap.org/data/2.5/weather?q=Kiev,,UA&appid=41ee288d3d61d478629f7453b43ca0f8",153,0,127
+06-10-2024,26,Endpoint 2,200,OK,Thread Group 1-3,text,true,,808,192,1,1,"https://api.openweathermap.org/data/2.5/weather?q=Kiev,UA&appid=41ee288d3d61d478629f7453b43ca0f8",26,0,0
+06-10-2024,27,Endpoint 3 ,200,OK,Thread Group 1-3,text,true,,805,189,1,1,https://api.openweathermap.org/data/2.5/weather?q=Kiev&appid=41ee288d3d61d478629f7453b43ca0f8,27,0,0
+06-10-2024,26,Endpoint 1,200,OK,Thread Group 1-3,text,true,,794,196,1,1,"https://api.openweathermap.org/data/2.5/weather?q=Milan,MI,IT&appid=41ee288d3d61d478629f7453b43ca0f8",26,0,0
+06-10-2024,27,Endpoint 2,200,OK,Thread Group 1-3,text,true,,794,193,1,1,"https://api.openweathermap.org/data/2.5/weather?q=Milan,IT&appid=41ee288d3d61d478629f7453b43ca0f8",27,0,0
+06-10-2024,26,Endpoint 3 ,200,OK,Thread Group 1-3,text,true,,788,190,1,1,https://api.openweathermap.org/data/2.5/weather?q=Milan&appid=41ee288d3d61d478629f7453b43ca0f8,26,0,0
